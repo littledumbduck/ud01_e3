@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AAD.iml" filepath="$PROJECT_DIR$/.idea/AAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AD_UD1_E3_Examen_Rotura/AD_UD1_E3_Examen_Rotura.iml" filepath="$PROJECT_DIR$/AD_UD1_E3_Examen_Rotura/AD_UD1_E3_Examen_Rotura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AD_UD1_E3_LectorContadores/AD_UD1_E3_LectorContadores.iml" filepath="$PROJECT_DIR$/AD_UD1_E3_LectorContadores/AD_UD1_E3_LectorContadores.iml" />
+    </modules>
+  </component>
+</project>
